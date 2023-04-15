@@ -1,4 +1,4 @@
-a=3
-b=4
-print (a+b)
+a= int(input ("Enter Num a : "))
+b= int(input ("Enter Num b : "))
+print (a+b)  # sum 
 
